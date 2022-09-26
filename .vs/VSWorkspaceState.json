@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Api.Application\\Controllers",
+    "\\Api.Application",
+    "\\Api.CrossCutting",
+    "\\Api.CrossCutting\\DependencyInjection",
     "\\Api.Data",
-    "\\Api.Data\\Mapping",
-    "\\Api.Domain\\bin\\Release",
-    "\\Api.Domain\\DTOs",
-    "\\Api.Domain\\Interfaces"
+    "\\Api.Data\\Repository",
+    "\\Api.Service",
+    "\\Api.Service\\Services"
   ],
-  "SelectedNode": "\\Api.Data\\Mapping\\CategoryMap.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -10,3 +10,10 @@ D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\obj\Debug\net6.0\Cros
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\obj\Debug\net6.0\refint\CrossCutting.dll
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\obj\Debug\net6.0\CrossCutting.pdb
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\obj\Debug\net6.0\ref\CrossCutting.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\bin\Debug\net6.0\Data.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\bin\Debug\net6.0\Domain.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\bin\Debug\net6.0\Service.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\bin\Debug\net6.0\Domain.pdb
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\bin\Debug\net6.0\Data.pdb
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\bin\Debug\net6.0\Service.pdb
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.CrossCutting\obj\Debug\net6.0\CrossCutting.csproj.CopyComplete

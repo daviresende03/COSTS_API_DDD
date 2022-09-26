@@ -10,10 +10,8 @@ D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\obj\Debug\net6.0\Service.d
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\obj\Debug\net6.0\refint\Service.dll
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\obj\Debug\net6.0\Service.pdb
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\obj\Debug\net6.0\ref\Service.dll
-D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\bin\Debug\net6.0\CrossCutting.dll
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\bin\Debug\net6.0\Data.dll
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\bin\Debug\net6.0\Domain.dll
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\bin\Debug\net6.0\Domain.pdb
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\bin\Debug\net6.0\Data.pdb
-D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\bin\Debug\net6.0\CrossCutting.pdb
 D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Service\obj\Debug\net6.0\Service.csproj.CopyComplete

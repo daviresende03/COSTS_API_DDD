@@ -9,5 +9,4 @@ public interface ICategory
     Task<Category> FindByNameAsync(string name);
     Task<Category> InsertAsync(CategoryRequest categoryReq);
     Task<bool> RemoveAsync(int id);
-    Task<bool> ExistProjectWithThisCategoryAsync(Category category);
 }

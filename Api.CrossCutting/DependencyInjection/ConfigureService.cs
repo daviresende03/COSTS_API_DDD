@@ -1,13 +1,13 @@
 using Microsoft.Extensions.DependencyInjection;
+using Api.Service.Services;
+using Api.Domain.Interfaces;
+namespace Api.CrossCutting.DependencyInjection;
 
-namespace Api.CrossCutting.DependencyInjection
+public class ConfigureService
 {
-    public class ConfigureService
+    public static void ConfigureDependenciesService (IServiceCollection serviceCollection)
     {
-        public static void ConfigureDependenciesService (IServiceCollection serviceCollection)
-        {
-            builder.Services.AddScoped<IProject, ProjectService>();
-            builder.Services.AddScoped<ICategory, CategoryService>();
-        }
+        serviceCollection.AddScoped<IProject, ProjectService>();
+        serviceCollection.AddScoped<ICategory, CategoryService>();
     }
 }
