@@ -1,0 +1,17 @@
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\bin\Debug\net6.0\Data.deps.json
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\bin\Debug\net6.0\Data.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\bin\Debug\net6.0\Data.pdb
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\refint\Data.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.pdb
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\ref\Data.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\bin\Debug\net6.0\Domain.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\bin\Debug\net6.0\Domain.pdb
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Data\obj\Debug\net6.0\Data.genruntimeconfig.cache

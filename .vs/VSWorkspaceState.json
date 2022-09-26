@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api.Application\\Controllers",
+    "\\Api.Data",
+    "\\Api.Data\\Mapping",
+    "\\Api.Domain\\bin\\Release",
+    "\\Api.Domain\\DTOs",
+    "\\Api.Domain\\Interfaces"
+  ],
+  "SelectedNode": "\\Api.Data\\Mapping\\CategoryMap.cs",
+  "PreviewInSolutionExplorer": false
+}

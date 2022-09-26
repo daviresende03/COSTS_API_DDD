@@ -1,0 +1,12 @@
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\bin\Debug\net6.0\Domain.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\bin\Debug\net6.0\Domain.pdb
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\Domain.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\Domain.pdb
+D:\Repositorio\VisualStudio\COSTS_API_DDD\Api.Domain\obj\Debug\net6.0\ref\Domain.dll
